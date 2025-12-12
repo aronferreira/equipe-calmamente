@@ -229,13 +229,5 @@
   }
 }
 
-@media (min-width: 600px) {
-  .cont {
-    display:none;
-  }
 
-  footer{
-    display: none;
-  }
-}
 
