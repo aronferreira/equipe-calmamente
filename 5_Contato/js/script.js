@@ -1,5 +1,5 @@
 const footerResponsivo = document.getElementById('footerResponsivo');
-const socialMediaAntigo = document.getElementById('redesAntiga')
+const socialMediaAntigo = document.getElementById('redesAntiga');
 
 // Esta função roda quando o tamanho da tela muda
 window.addEventListener('resize', () => {
